@@ -1,0 +1,2 @@
+# mental-algorithm
+MENTAL ALGORITHM
